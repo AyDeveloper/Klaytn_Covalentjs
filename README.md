@@ -20,8 +20,12 @@ Clone this project with git
   git clone https://github.com/AyDeveloper/Klaytn_Covalentjs.git
   cd Klaytn_Covalentjs
 ```
-    
-Open up in VS Code then run this command
+Open up in VS Code;
+run this command 
+
+```bash
+npm install
+```
 
 ```bash
  npm run build
